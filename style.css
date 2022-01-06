@@ -6,12 +6,20 @@
 body {
     font-family: 'Poppins', sans-serif;
 
+    background-color: #f7eeee;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Lobster', cursive;
 }
 
 /*----About Section----*/
 .about-area {
     display: flex;
-    background-color: #f7eeee;
+    background-color:
 }
 
 .left-about {
@@ -67,22 +75,22 @@ body {
 
 /*----Mission-section----*/
 .mission-section {
-    background-color: #f7e8e8;
+    /*background-color:#f7e8e8;*/
 }
 
 .mission-section h1 {
     text-align: center;
     font-size: 40px;
-    padding: 20px;
+    padding: 5px;
     font-weight: bold;
     color: #1facf0;
-    margin-bottom: 50px;
+    margin-bottom: 22px;
 
 
 }
 
 .mission-section span {
-    color: darkorange;
+    color: #82a22b;
 }
 
 
@@ -122,7 +130,7 @@ body {
 }
 
 .vission {
-    background-color: rgb(240, 222, 231);
+    background-color: #bcc8b5;
     padding: 25px 30px;
     margin-right: 28px;
     border-radius: 10px;
@@ -130,7 +138,8 @@ body {
 }
 
 .goals {
-    background-color: #e8f4e2;
+    background-color: rgb(240, 222, 231);
+
     padding: 25px 30px;
     border-radius: 10px;
 
@@ -138,7 +147,7 @@ body {
 
 /*----content section start---*/
 .content-section {
-    background-color: floralwhite;
+    /*background-color: floralwhite;*/
 }
 
 .content-area {
